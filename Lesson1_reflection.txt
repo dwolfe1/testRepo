@@ -1,0 +1,10 @@
+Lesson 1 Reflection
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Yes, viewing the difference between two version did help me spot the bug. 
+It helps to compare a known working copy with a copy that is being worked on.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Gives a better understanding on the evolution of a program through time.
